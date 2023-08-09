@@ -1,4 +1,4 @@
-import { useReducer, useEffect } from 'react'
+import { useReducer, use effect } from 'react'
 import axios from 'axios'
 
 const ACTIONS = {
